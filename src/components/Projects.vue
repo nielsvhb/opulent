@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div id="projects">
 		<carousel :items-to-show="1">
 			<slide v-for="project in projects" :key="project.id">
 				<div
