@@ -3,24 +3,21 @@ interface Project {
     title:string;
     description: string;
     image: string;
-    slug: string;
 }
+const projects = await Astro.glob<Project>('../pages/projects/*.md');
 
-
-const projects = await Astro.glob('../pages/projects/*.md');
 ---
-<div>
+<div class="h-[50rem] overflow-x-hidden flex whitespace-nowrap">
     {projects.map((project) => {
         const image = "background-image: url(" + project.frontmatter.image + ")";
         
         return <div
-                class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center justify-center"
+                class="h-full w-full bg-center bg-cover flex flex-col items-center justify-center"
                 style={image}>
-            <a
-                    href={project.frontmatter.slug}
-                    class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
+            <a href={project.url} class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
                 {project.frontmatter.title}
             </a>
         </div>
     })}
 </div>
+
