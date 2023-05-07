@@ -17,14 +17,16 @@ export default defineConfig({
         },
         collections: [
           {
-            name: 'posts',
-            label: 'Blog Posts',
-            folder: 'src/pages/posts',
+            name: 'projects',
+            label: 'Project',
+            folder: 'src/pages/projects',
+            slug: '{{slug}}',
             create: true,
             delete: true,
             fields: [
-              { name: 'title', widget: 'string', label: 'Post Title' },
-              { name: 'body', widget: 'markdown', label: 'Post Body' },
+              { name: 'title', widget: 'string', label: 'Project Title' },
+              { name: 'description', widget: 'markdown', label: 'Project Description' },
+              { name: 'image', widget: 'image', label: 'Image' },
             ],
           },
         ],
