@@ -3,15 +3,13 @@
 		<carousel :items-to-show="1">
 			<slide v-for="project in projects" :key="project.id">
 				<div
-					class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center"
+					class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center justify-center"
 					:style="'background-image: url(' + project.image + ')'">
-					<div class="text-4xl text-white text-center drop-shadow-[0_3px_3px_rgba(0,0,0,0.5)] mt-auto">
-						{{ project.title }}
-					</div>
+			
 					<a
 						href=""
-						class="mt-6 mb-32 inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide hover:bg-secondary">
-						View project
+						class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
+						{{ project.title }}
 					</a>
 				</div>
 			</slide>

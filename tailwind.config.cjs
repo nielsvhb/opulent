@@ -11,11 +11,12 @@ module.exports = {
                 "primary-light": "#72A38F",
                 secondary: "#a56051",
                 ice: "#d3e2ef",
-                fuchsia: "#fdeeea"
+                fuchsia: "#fdeeea",
+                "fuchsia-dark": "#D8ACA0"
             }
         },
         fontFamily: {
-            body: ['agrandir'],
+            sans: ['agrandir'],
             heading: ['pearl'],
         },
 	},
