@@ -13,7 +13,7 @@ const projects = await Astro.glob<Project>('../pages/projects/*.md');
         
         return <div
                 class="h-full w-full bg-center bg-cover flex flex-col items-center justify-center"
-                style={image}>
+                style={image} title={project.frontmatter.image}>
             <a href={project.url} class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
                 {project.frontmatter.title}
             </a>

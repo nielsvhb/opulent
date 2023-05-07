@@ -17,7 +17,7 @@ export default defineConfig({
         },
         publish_mode: 'editorial_workflow',
         media_folder: 'public/uploads',
-        public_folder: 'public/uploads',
+        public_folder: 'uploads',
         collections: [
           {
             name: 'projects',
