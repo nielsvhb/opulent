@@ -1,34 +1,25 @@
 ﻿---
-import { getCollection } from 'astro:content';
 interface Project {
-    id: number;
     title:string;
+    description: string;
     image: string;
     slug: string;
 }
-// const projects: Project[] = [
-//     {
-//         id: 1,
-//         image: "project1.jpg",
-//         title: "My Project 1",
-//     }
-// ];
 
-const projects = await Astro.glob('../pages/projects/*.md') as Project[];
 
+const projects = await Astro.glob('../pages/projects/*.md');
 ---
 <div>
-    {projects.map((project) => (<div>{project.title}</div>))}
     {projects.map((project) => {
-        const image = "background-image: url(" + project.image + ")";
+        const image = "background-image: url(" + project.frontmatter.image + ")";
         
         return <div
                 class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center justify-center"
                 style={image}>
             <a
-                    href=""
+                    href={project.frontmatter.slug}
                     class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
-                {project.title}
+                {project.frontmatter.title}
             </a>
         </div>
     })}

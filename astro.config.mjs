@@ -15,6 +15,9 @@ export default defineConfig({
           name: 'git-gateway',
           branch: 'master',
         },
+        publish_mode: 'editorial_workflow',
+        media_folder: 'public/uploads',
+        public_folder: 'public/uploads',
         collections: [
           {
             name: 'projects',
