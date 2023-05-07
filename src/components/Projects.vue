@@ -1,5 +1,5 @@
 <template>
-	<div id="projects">
+	<div>
 		<carousel :items-to-show="1">
 			<slide v-for="project in projects" :key="project.id">
 				<div
@@ -25,13 +25,14 @@
 <script lang="ts">
 import "vue3-carousel/dist/carousel.css";
 import { Carousel, Slide, Pagination, Navigation } from "vue3-carousel";
+import Vue from 'vue';
 
-export default {
+export default Vue.defineComponent({
 	components: {
 		Carousel,
 		Slide,
 		Pagination,
-		Navigation,
+		Navigation
 	},
 	data() {
 		return {
@@ -47,11 +48,11 @@ export default {
 					image: "project1.jpg",
 					title: "My Project 2",
 					description: "Lorem ipsum",
-				},
-			],
+				}
+			]
 		};
 	},
-};
+});
 </script>
 
 <style scoped>
