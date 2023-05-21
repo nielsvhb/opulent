@@ -7,7 +7,7 @@
                         :style="'background-image: url(' + project.image + ')'">
 
                     <a
-                            href=""
+                            :href="'/projects/'+project.id"
                             class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
                         {{ project.title }}
                     </a>

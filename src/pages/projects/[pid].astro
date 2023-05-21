@@ -1,0 +1,39 @@
+﻿---
+import Layout from "../../layouts/Layout.astro";
+import NavDetail from "../../components/NavDetail.astro";
+export async function getStaticPaths() {
+    const pages = [
+        {
+            pid: 1,
+            title: "Project 1",
+            text: "Welcome to the Astro store!",
+        },
+        {
+            pid: 2,
+            title: "Project 2",
+            text: "We have lots of products for you",
+        }
+    ];
+    return pages.map(({ pid, title, text }) => {
+        return {
+            params: { pid },
+            props: { title, text },
+        };
+    });
+}
+
+const { title, text } = Astro.props;
+---
+
+<Layout title="Opulent - Over ons">
+    <header>
+        <NavDetail />
+    </header>
+    <main class="text-fuchsia-dark bg-fuchsia flex-grow">
+
+        <div class="container py-20">
+            Projectje {title}
+        </div>
+
+    </main>
+</Layout>
