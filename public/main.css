@@ -31,5 +31,7 @@
     .carousel__pagination-button.carousel__pagination-button--active:after{
         opacity: 1;
     }
-    
+    .btn {
+        @apply inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide
+    }
 }
