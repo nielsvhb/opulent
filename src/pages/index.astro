@@ -6,6 +6,8 @@ import Proces from "../components/Proces.astro";
 import Faq from "../components/Faq.astro";
 import Contact from "../components/Contact.astro";
 import Projects from "../components/Projects.vue";
+
+const projects = await Astro.glob('../pages/projects/*.md');
 ---
 
 <Layout title="Welcome to Opulent">
@@ -13,7 +15,8 @@ import Projects from "../components/Projects.vue";
         <Nav />
     </header>
 	<main>
-		<Projects client:visible />
+    
+		<Projects client:visible projects={projects} />
         <About />
         <Proces />
         <Faq />

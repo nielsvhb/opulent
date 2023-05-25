@@ -1,15 +1,15 @@
 ﻿<template>
     <div id="projects">
         <carousel :items-to-show="1">
-            <slide v-for="project in projects" :key="project.id">
+            <slide v-for="project in projects" :key="project.frontmatter.title">
                 <div
                         class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center justify-center"
-                        :style="'background-image: url(' + project.image + ')'">
+                        :style="'background-image: url(' + project.frontmatter.images[0].image + ')'">
 
                     <a
-                            :href="'/projects/'+project.id"
+                            :href="project.url"
                             class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
-                        {{ project.title }}
+                        {{ project.frontmatter.title }}
                     </a>
                 </div>
             </slide>
@@ -26,6 +26,16 @@
 import "vue3-carousel/dist/carousel.css";
 import { Carousel, Slide, Pagination, Navigation } from "vue3-carousel";
 
+interface Project {
+    url: string;
+    compiledContent: () => string;
+    frontmatter: {
+        title: string;
+        images: {
+            image: string[]
+        };
+    }
+}
 export default {
     components: {
         Carousel,
@@ -33,22 +43,12 @@ export default {
         Pagination,
         Navigation,
     },
+    props: {
+      projects: Array as () => Project[]  
+    },
     data() {
         return {
-            projects: [
-                {
-                    id: 1,
-                    image: "project1.jpg",
-                    title: "My Project 1",
-                    description: "Lorem ipsum",
-                },
-                {
-                    id: 2,
-                    image: "project1.jpg",
-                    title: "My Project 2",
-                    description: "Lorem ipsum",
-                },
-            ],
+          
         };
     },
 };
