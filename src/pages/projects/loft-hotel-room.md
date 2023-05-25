@@ -1,5 +1,7 @@
 ---
 title: Loft hotel room
+images:
+  - image: /images/uploads/mk-s-cr1yt5ahp3e-unsplash.jpg
 ---
 <!--StartFragment-->
 
