@@ -1,5 +1,6 @@
 ---
 title: Loft hotel room
+layout: ../../layouts/ProjectLayout.astro
 images:
   - image: /images/uploads/mk-s-cr1yt5ahp3e-unsplash.jpg
   - image: /images/uploads/evan-wise-jzkfvycn3fq-unsplash.jpg
