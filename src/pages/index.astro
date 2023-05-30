@@ -16,7 +16,7 @@ const projects = await Astro.glob('../pages/projects/*.md');
     </header>
 	<main>
     
-		<Projects client:visible projects={projects} />
+		<Projects  projects={projects} client:only />
         <About />
         <Proces />
         <Faq />

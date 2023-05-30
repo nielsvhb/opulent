@@ -1,11 +1,11 @@
+---
+import * as homePage from '/content/home.md';
+---
 <section style="background-image: url(/spacejoy.jpg);" class="py-32 bg-cover bg-center min-h-[60vh]">
 	<div class="sm:w-2/3 sm:ml-[10%] lg:ml-[60%] lg:w-1/4 inline-flex justify-center items-center relative">
 		
 		<div class="z-10 absolute p-12 px-24">
-			<p class="text-white text-center text-sm leading-6">
-				We staan garant voor een persoonlijke, warme aanpak. Een Opulent ontwerp is altijd uniek en op maat. 
-				Je noden, wensen en budget in rekening gebracht en omgevormd tot advies en begeleiding naar de inrichting van het nieuwe interieur.
-			</p>
+			<p class="text-white text-center text-sm leading-6" set:html={homePage.frontmatter.info}></p>
 				
 			<div class="text-center mt-2">
 				<a href="/process" class="text-white underline text-sm">Meer over ons proces <i class="fas fa-angle-right ml-2"></i></a>

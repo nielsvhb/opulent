@@ -20,5 +20,7 @@ module.exports = {
             heading: ['pearl'],
         },
 	},
-	plugins: []
+	plugins: [
+        require('@tailwindcss/typography')
+    ]
 }

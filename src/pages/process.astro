@@ -1,6 +1,7 @@
 ﻿---
 import Layout from "../layouts/Layout.astro";
 import NavDetail from "../components/NavDetail.astro";
+import * as processPage from '/content/process.md';
 ---
 
 <Layout title="Opulent - Proces">
@@ -9,64 +10,19 @@ import NavDetail from "../components/NavDetail.astro";
     </header>
     <main class="text-white bg-fuchsia-dark flex-grow">
 
-        <div class="container py-20 grid grid-cols-4 gap-10">
+        <div class="container mx-auto py-20 grid grid-cols-4 gap-10">
             <div class="col-span-3">
-                <h1 class="font-heading text-3xl inline-block mb-10 text-white">Proces</h1>
-                <p class="text-fuchsia font-light">
-                    We staan garant voor een persoonlijke, warme aanpak. Een Opulent ontwerp is altijd uniek en op maat. Je noden, wensen en budget in rekening gebracht en omgevormd tot 
-                    advies en begeleiding naar de inrichting van het nieuwe interieur.
-                    Elk type advies is bij ons bespreekbaar. Of je nu nood hebt aan basisadvies en moodboards, personal shopping, verlichtingsadvies, 
-                    meubeladvies of een all-in advies met begeleiding, Opulent heeft alles in huis om jou op een aangename, persoonlijke manier verder te helpen.
-                </p>
+                <h1 class="font-heading text-3xl inline-block mb-10 text-white">{processPage.frontmatter.title}</h1>
                 
-                <div class="my-8">
-                    <h2 class="mb-2 text-lg">Ontmoeting</h2>
-                    <p class="text-fuchsia font-light">
-                        Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlangens. We bespreken samen verwachtingen en budget en 
-                        dompelen ons onder in de ruimte(s) die aangepakt mogen worden. Uit deze meeting zal meteen duidelijk worden of er een mooie match is tussen jullie en Opulent.
-                    </p>
-                </div>
+                <div class="text-fuchsia font-light mb-20 prose prose-invert prose-headings:font-normal prose-headings:mb-2" set:html={processPage.compiledContent()}></div>
                 
-                <div class="my-8">
-                    <h2 class="mb-2 text-lg">Ontwerp & moodboards</h2>
-                    <p class="text-fuchsia font-light">
-                        Als we ervoor kiezen om samen in zee te gaan is Opulent aan zet. We bezorgen je verschillende ontwerpen & moodboards en doen voorstellen voor materialen, kleuren en meubilair.
-                    </p>
-                </div>
+          
                 
-                <div class="my-8">
-                    <h2 class="mb-2 text-lg">Planning & uitvoering</h2>
-                    <p class="text-fuchsia font-light">
-                        Wanneer jij het ontwerp van jouw voorkeur hebt uitgekozen, wordt dit in detail besproken en waar nodig aangepast. 
-                        We werken samen aan het ideale ontwerp met de perfecte balans tussen karakter en sfeer. 
-                        Daarna kunnen wij van start met de uitvoering, die van a tot z door ons begeleid wordt, afhankelijk van onze afspraken.
-                    </p>
-                </div>
-
-                <div class="my-8">
-                    <h2 class="mb-2 text-lg">Begeleiding</h2>
-                    <p class="text-fuchsia font-light">
-                        Opulent zorgt voor het opvolgen en inplannen van de levering en coördinatie van de vakmensen. De begeleiding kan zeer 
-                        gedetailleerd, tot bij de keuze van materialen, raamdecoratie, verlichting, meubels en decoratie. 
-                        Jij wordt volledig ontzorgd en kan op beide oren slapen dat de uitvoering precies volgens ontwerp gebeurt.
-                    </p>
-                </div>
-
-                <div class="my-8">
-                    <h2 class="mb-2 text-lg">Ontwerp & Styling</h2>
-                    <p class="text-fuchsia font-light">
-                        Is alles geleverd? Dan komen wij langs om de installatie tot in detail te verzorgen. De volledige
-                        integratie van meubels, verlichting en decoratie en de persoonlijke styling zorgen ervoor dat het 
-                        totaalplaatje spot-on is en meteen vastgelegd kan worden. 
-                        Daarna hoef jij enkel nog maar te genieten van je splinternieuwe, spraakmakende interieur.
-                    </p>
-                </div>
-                
-                <img src="/proces2.jpg" />
+                <img src={processPage.frontmatter.imagebottom} />
             </div>
             
             <div class="col-span-1">
-                <img src="/proces1.jpg" />
+                <img src={processPage.frontmatter.imageleft} />
             </div>
         </div>
        
