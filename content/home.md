@@ -3,7 +3,7 @@ about: >-
   <!--StartFragment-->
 
 
-  Opulent staat voor een tijdloos en weelderig interieur, in de breedste zin van het woord. Een weelde aan texturen, materialen, licht, kleuren. Een interieur dat vreugde teweeg brengt en waarin je elke dag inspiratie kan opdoen. Wooninterieur, kantoorinrichting of horeca, we durven het allemaal aan en halen samen met jou alles uit de kast om een spraakmakend interieur te realiseren.
+  Interior for the daring, dat lichten we even toe. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur.Opulent staat open voor veel verschillende soort projecten. Neem dus gerust contact, dan bespreken we samen wat de mogelijkheden zijn om voor jou een spraakmakend interieur te realiseren.
 
 
   <!--EndFragment-->
