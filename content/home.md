@@ -11,7 +11,7 @@ info: >-
   <!--StartFragment-->
 
 
-  We staan garant voor een persoonlijke, warme aanpak. Een Opulent ontwerp is altijd uniek en op maat. Je noden, wensen en budget in rekening gebracht en omgevormd tot advies en begeleiding naar de inrichting van het nieuwe interieur.
+  Een Opulent ontwerp is altijd uniek en op maat. We luisteren naar jouw wensen en brengen daarna ook je noden en voorkeuren voor je nieuwe interieur in kaart. Het advies kan zo ver uitgebreid worden als nodig is voor jouw project, inclusief begeleiding naar de realisatie van het nieuwe interieur.
 
 
   <!--EndFragment-->
