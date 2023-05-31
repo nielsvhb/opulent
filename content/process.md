@@ -1,7 +1,7 @@
 ---
 title: Proces
-imageleft: /images/uploads/stalen1.jpg
-imagebottom: /images/uploads/stalen2.jpg
+imageleft: /images/uploads/stalen2.jpg
+imagebottom: /images/uploads/stalen1.jpg
 ---
 <!--StartFragment-->
 
