@@ -3,7 +3,7 @@ about: >-
   <!--StartFragment-->
 
 
-  Interior for the daring, dat lichten we even toe. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur. Opulent staat open voor veel verschillende soort projecten. Neem dus gerust contact, dan bespreken we samen wat de mogelijkheden zijn om voor jou een spraakmakend interieur te realiseren.
+  Interior for the daring, dat lichten we even toe. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur. Opulent staat open voor veel verschillende soorte projecten. Neem dus gerust contact, dan bespreken we samen wat de mogelijkheden zijn om voor jou een spraakmakend interieur te realiseren.n
 
 
   <!--EndFragment-->
