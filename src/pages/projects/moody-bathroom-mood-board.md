@@ -1,5 +1,5 @@
 ---
-title: Moody bathroom concept
+title: Moody bathroom
 layout: ../../layouts/ProjectLayout.astro
 images:
   - image: /images/uploads/moodboard-moody-bathroom.jpg
