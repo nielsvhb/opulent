@@ -2,10 +2,13 @@
 title: Rooftop bar
 layout: ../../layouts/ProjectLayout.astro
 images:
-  - image: /images/uploads/andrew-wise-zxime1o1iy0-unsplash.jpg
+  - image: /images/uploads/bar2-klein.png
+  - image: /images/uploads/totaal-hoek1.png
+  - image: /images/uploads/bar-inrichting-klein.png
+  - image: /images/uploads/moodboard-rooftop-bar.jpg
 ---
 <!--StartFragment-->
 
-De veelbelovende, bruisende stemming van een grote stad aan je voeten. Boven op een jong maar uitgesproken hotel hoort een Rooftop bar waar mensen over spreken. Voor het concept van KOI kozen we een eenvoudig maar zeer effectief kleurenpalet dat een mooi contrast vormt met de natuurlijke kleuren van de koivissen in de aquariums in de vloer en naast de bar. Bij Opulent geloven we sterk in het implementeren van een concept in elk aspect van het ontwerp. Van meubilair en verlichting tot decoratie zijn de verwijzingen naar het thema subtiel, of net het tegenovergestelde. Het leven is zoveel leuker met wat kleur!
+Volgens Opulent leent een bar zich altijd tot een zeer sterk en uitgesproken concept. Bij het ontwerp van deze rooftop bar kwam de inspiratie van de kleuren van Japanse koi vissen. De bar baadt in kobaltblauw en de rondom-rond aquaria in de vloer en naast de bar versterken het gevoel van de leefwereld van de Japanse vissen. In een Opulent interieur wordt elk concept doorgetrokken tot in de kleinste details. Meubilair wordt minutieus op maat uitgezocht, maar ook servies, decoratie, verlichting en andere apparatuur moeten naadloos aansluiten bij het concept. De aandacht voor alle verschillende kleine details bundelt zich samen en maakt een duidelijk voelbaar niveauverschil in de implementatie en executie van het concept.
 
 <!--EndFragment-->
