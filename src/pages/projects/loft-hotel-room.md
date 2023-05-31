@@ -1,7 +1,8 @@
 ---
 title: Loft hotel room
 layout: ../../layouts/ProjectLayout.astro
-images: []
+images:
+  - image: /images/uploads/frontpage.jpg
 ---
 <!--StartFragment-->
 
