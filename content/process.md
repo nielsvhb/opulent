@@ -1,7 +1,7 @@
 ---
 title: Proces
-imageleft: /images/uploads/thanos-pal-9ozfte-y5t4-unsplash.jpg
-imagebottom: /images/uploads/spacejoy-uccssbzybqq-unsplash.jpg
+imageleft: /images/uploads/stalen1.jpg
+imagebottom: /images/uploads/stalen2.jpg
 ---
 <!--StartFragment-->
 
