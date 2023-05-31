@@ -2,7 +2,7 @@
 title: Rooftop bar
 layout: ../../layouts/ProjectLayout.astro
 images:
-  - image: /images/uploads/frontpage-rooftop-bar.jpg
+  - image: /images/uploads/frontpage-roof-top-bar.jpg
   - image: /images/uploads/bar2-klein.png
   - image: /images/uploads/totaal-hoek1.png
   - image: /images/uploads/bar-inrichting-klein.png
