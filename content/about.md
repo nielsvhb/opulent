@@ -1,6 +1,6 @@
 ---
 title: Over ons
-image: /images/uploads/spacejoy-tkfskjy8pq8-unsplash.jpg
+image: /images/uploads/22426373_10155711231728428_5295324122740046033_o.jpg
 ---
 <!--StartFragment-->
 
