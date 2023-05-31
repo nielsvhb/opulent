@@ -4,10 +4,24 @@ image: /images/uploads/22426373_10155711231728428_5295324122740046033_o.jpg
 ---
 <!--StartFragment-->
 
-Opulent is interieur voor de durvers. Mag het eens wat meer zijn? Dan zit je hier goed.
+Interior for the daring, dat lichten we even toe. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur. 
 
-Opulent staat voor een tijdloos en weelderig interieur, in de breedste zin van het woord. Een weelde aan texturen, materialen, licht, kleuren. Een interieur dat vreugde teweeg brengt en waarin je elke dag inspiratie kan opdoen. Wooninterieur, kantoorinrichting of horeca, we durven het allemaal aan en halen samen met jou alles uit de kast om een spraakmakend interieur te realiseren.
+**Esthetiek**
 
-We tonen graag aan dat esthetiek, functionaliteit en beleving perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur.
+Bij Opulent hebben we een passie voor veel kleur, het mixen van materialen en het creëren van contrasten binnen een interieur. Dat is wat ons uniek maakt. Opulent staat voor een tijdloos en weelderig interieur, in de breedste zin van het woord. Een weelde aan texturen, materialen, licht en kleur. We nemen er trots in om aan te tonen dat functionele meubels ook mooi kunnen zijn en je hierin geen compromis hoeft te maken.
+
+**Beleving**
+
+Het is voor ons belangrijk dat een interieur vreugde teweeg brengt en tegelijk rust. Dat je kan binnenkomen en meteen voelt dat de ruimte die je net betrad met veel zorg ontworpen is en een duidelijke weerspiegeling is van de persoonlijkheid van de eigenaar. Dat er geleefd wordt en met verwondering rondgekeken kan worden. Mooie stoffen, unieke kleurcombinaties en tactiele materialen kunnen hiervoor zorgen. Gecombineerd met stijlvol meubilair en afgewerkt met interessante accessoires.
+
+**Functionaliteit**
+
+Hoe toonaangevend esthetiek en beleving ook zijn in een interieur, functionaliteit blijft een belangrijke factor. Opulent treedt daarom uitvoerig met zijn klanten in gesprek om een analyse te maken van de verschillende manieren waarop de ruimte gebruikt wordt. Op basis hiervan zal de ruimte dan ontworpen worden op maat van zijn bewoners/gebruikers. We brengen de ruimte en de flow in rekening om een optimaal resultaat te bereiken.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Opulent staat open voor veel verschillende soort projecten. Neem dus gerust contact, dan bespreken we samen wat de mogelijkheden zijn om voor jou een spraakmakend interieur te realiseren.
 
 <!--EndFragment-->
