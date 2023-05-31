@@ -31,11 +31,7 @@ Is alles geleverd? Dan komen wij (indien gewenst) langs om de installatie tot in
 
 Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen, en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
-
-
 Voor wooninterieurs werken we met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
-
-
 
 Kennismakingsgesprek: €50
 
@@ -65,6 +61,8 @@ Interieuradvies: €500
 * shopping list
 * extra tips verlichting en raamdecoratie
 * advies combinatie van vormen, materialen en texturen
+
+
 
 Personal shopping: prijs op aanvraag
 
