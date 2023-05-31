@@ -27,7 +27,7 @@ Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolg
 
 Is alles geleverd? Dan komen wij (indien gewenst) langs om de installatie tot in detail te verzorgen. De volledige integratie van meubels, verlichting en decoratie en de persoonlijke styling zorgen ervoor dat het totaalplaatje spot-on is en meteen vastgelegd kan worden. Daarna hoef jij enkel nog maar te genieten van je splinternieuwe, spraakmakende interieur.
 
-# P﻿rijzen
+## P﻿rijzen
 
 Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen, en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
