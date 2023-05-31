@@ -33,7 +33,11 @@ Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs 
 
 Voor wooninterieurs werken we met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
 
-Kennismakingsgesprek: €50
+
+
+
+
+**Kennismakingsgesprek: €50**
 
 * gesprek op locatie van +/- 2u
 * bekijken van ruimte(s)
@@ -42,7 +46,9 @@ Kennismakingsgesprek: €50
 
 
 
-Kleuradvies: €200
+
+
+**Kleuradvies: €200**
 
 * bespreken van wensen, vragen en ideeën
 * samen zoeken naar verfkleuren en/of behang afgestemd op de ruimte en persoonlijkheid
@@ -52,7 +58,9 @@ Kleuradvies: €200
 
 
 
-Interieuradvies: €500
+
+
+**Interieuradvies: €500**
 
 * kennismakingsgesprek
 * kleuradvies
@@ -64,7 +72,11 @@ Interieuradvies: €500
 
 
 
-Personal shopping: prijs op aanvraag
+
+
+**Personal shopping: prijs op aanvraag**
+
+
 
 
 
