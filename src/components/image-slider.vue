@@ -1,8 +1,8 @@
 ﻿<template>
     <div id="projects">
-        <carousel :items-to-show="2">
+        <carousel :items-to-show="itemsToShow">
             <slide v-for="image in images" :key="image">
-                <img :src="image" class="h-96" alt="project" /> 
+                <img :src="image" class="h-46 xl:h-96" alt="project" /> 
             </slide>
 
             <template #addons>
@@ -28,9 +28,17 @@ export default {
     },
     data() {
         return {
-            
+            width: 0
         };
     },
+    computed: {
+        itemsToShow(): number{
+            return this.width < 768 ? 1 : 2;
+        }
+    },
+    mounted() {
+        this.width = window.outerWidth;
+    }
 };
 </script>
 

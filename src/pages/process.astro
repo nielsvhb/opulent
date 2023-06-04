@@ -11,7 +11,7 @@ import * as processPage from '/content/process.md';
     <main class="text-white bg-fuchsia-dark flex-grow">
 
         <div class="container mx-auto py-20 grid grid-cols-4 gap-10">
-            <div class="col-span-3">
+            <div class="col-span-4 sm:col-span-3">
                 <h1 class="font-heading text-3xl inline-block mb-10 text-white">{processPage.frontmatter.title}</h1>
                 
                 <div class="text-fuchsia font-light mb-20 prose prose-invert prose-headings:font-normal prose-headings:mb-2" set:html={processPage.compiledContent()}></div>
@@ -21,7 +21,7 @@ import * as processPage from '/content/process.md';
                 <img src={processPage.frontmatter.imagebottom} />
             </div>
             
-            <div class="col-span-1">
+            <div class="col-span-4 sm:col-span-1">
                 <img src={processPage.frontmatter.imageleft} />
             </div>
         </div>

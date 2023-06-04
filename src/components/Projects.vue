@@ -3,7 +3,7 @@
         <carousel :items-to-show="1">
             <slide v-for="project in projects" :key="project.frontmatter.title">
                 <div
-                        class="h-[50rem] w-full bg-center bg-cover flex flex-col items-center justify-center"
+                        class="h-[18rem] sm:h-[25rem] lg:h-[50rem] w-full bg-primary-light bg-center bg-contain bg-no-repeat sm:bg-cover flex flex-col items-center justify-center"
                         :style="'background-image: url(' + project.frontmatter.images[0].image + ')'">
 
                     <a
