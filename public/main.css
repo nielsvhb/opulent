@@ -8,8 +8,10 @@
 }
 
 @font-face {
-    font-family: "agrandir";
+    font-family: "agrandir-variable";
     src: url("Agrandir-Variable.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 
 @layer base {

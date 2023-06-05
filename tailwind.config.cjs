@@ -16,7 +16,7 @@ module.exports = {
             }
         },
         fontFamily: {
-            sans: ['agrandir'],
+            sans: ['agrandir-variable'],
             heading: ['pearl'],
         },
 	},
