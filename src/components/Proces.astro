@@ -2,13 +2,13 @@
 import * as homePage from '/content/home.md';
 ---
 <section style="background-image: url(/spacejoy.jpg);" class="bg-cover bg-center min-h-[60vh] z-0 py-24"  id="process">
-	<div class="w-full sm:w-[60%] xl:w-1/3 ml-0 sm:ml-[10%] xl:ml-[55%] max-w-[450px] p-24 inline-flex justify-center items-center relative bg-contain bg-center bg-no-repeat"  style="background-image: url(/blob.png);">
+	<div class="w-full sm:w-[60%] xl:w-1/3 ml-0 sm:ml-[10%] xl:ml-[55%] max-w-[450px] p-20 sm:p-24 inline-flex justify-center items-center relative bg-contain bg-center bg-no-repeat"  style="background-image: url(/blob.png);">
 		
 		<div class="z-10 w-full">
-			<p class="text-white text-center text-xs sm:text-sm leading-6" set:html={homePage.frontmatter.info}></p>
+			<p class="text-white text-center text-xs sm:text-sm leading-5 sm:leading-6" set:html={homePage.frontmatter.info}></p>
 				
 			<div class="text-center mt-2">
-				<a href="/process" class="text-white underline text-sm">Meer over ons proces <i class="fas fa-angle-right ml-2"></i></a>
+				<a href="/process" class="text-white underline text-xs sm:text-sm">Meer over ons proces <i class="fas fa-angle-right ml-2"></i></a>
 			</div>
 		</div>
 		
