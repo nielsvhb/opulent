@@ -4,11 +4,11 @@ layout: ../../layouts/ProjectLayout.astro
 images:
   - image: /images/uploads/frontpage.jpg
   - image: /images/uploads/roomview1.png
+  - image: /images/uploads/moodboard-loft-hotel-room.jpg
   - image: /images/uploads/balconyview2.png
   - image: /images/uploads/topview1.png
   - image: /images/uploads/bathroom1.png
   - image: /images/uploads/topview2.png
-  - image: /images/uploads/moodboard-loft-hotel-room.jpg
 ---
 <!--StartFragment-->
 
