@@ -14,8 +14,6 @@ Bij het aankleden van een showroom of etalage staat één woord centraal: verlei
 
 <!--EndFragment-->
 
-
-
-O﻿pdrachtgever: [Umber & Smoke](https://www.umberandsmoke.com/)
+###### *O﻿pdrachtgever: [Umber & Smoke](https://www.umberandsmoke.com/)*
 
 <!--EndFragment-->
