@@ -3,7 +3,7 @@ about: >-
   <!--StartFragment-->
 
 
-  Hoe die durf zich uit? Bij Opulent deinzen we niet terug voor kleur, interessante materiaalcombinaties en een interieur vol persoonlijkheid. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur. Opulent staat open voor veel verschillende soort projecten. Neem dus gerust contact, dan bespreken we samen wat de mogelijkheden zijn om voor jou een spraakmakend interieur te realiseren.
+  Bij Opulent deinzen we niet terug voor kleur, interessante materiaalcombinaties en een interieur vol persoonlijkheid. We tonen graag aan dat esthetiek, beleving en functionaliteit perfect in harmonie kunnen uitgelijnd worden in een onvergetelijk interieur. Opulent staat open voor verschillende soorten projecten. Neem gerust contact, dan bespreken we samen de mogelijkheden om voor jou een spraakmakend interieur te realiseren.
 
 
   <!--EndFragment-->
