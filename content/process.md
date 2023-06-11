@@ -9,7 +9,7 @@ We staan garant voor een persoonlijke, warme aanpak en begeleiden verschillende 
 
 ## Ontmoeting
 
-Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlangens. Er zal bekeken worden hoe er in de ruimte geleefd of gewerkt wordt en we maken kennis met jouw persoonlijke smaak. We bespreken samen verwachtingen en budget en dompelen ons onder in de ruimte(s) die aangepakt mogen worden.
+Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlangens. Er zal gekeken worden hoe er in de ruimte geleefd of gewerkt wordt en we maken kennis met jouw persoonlijke smaak. We bespreken samen verwachtingen en budget en dompelen ons onder in de ruimte(s) die aangepakt mogen worden.
 
 ## Ontwerp & moodboards
 
@@ -25,17 +25,13 @@ Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolg
 
 ## Styling
 
-Is alles geleverd? Dan komen wij (indien gewenst) langs om de installatie tot in detail te verzorgen. De volledige integratie van meubels, verlichting en decoratie en de persoonlijke styling zorgen ervoor dat het totaalplaatje spot-on is en meteen vastgelegd kan worden. Daarna hoef jij enkel nog maar te genieten van je splinternieuwe, spraakmakende interieur.
+Is alles geleverd? Dan komen wij langs om de installatie tot in detail te verzorgen. De volledige integratie van meubels, verlichting en decoratie en de persoonlijke styling zorgen ervoor dat het totaalplaatje spot-on is. Daarna hoef jij enkel nog maar te genieten van je splinternieuwe, spraakmakende interieur.
 
 ## P﻿rijzen
 
 Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen, en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
 Voor wooninterieurs werken we met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
-
-
-
-
 
 **Kennismakingsgesprek: €50**
 
@@ -44,10 +40,6 @@ Voor wooninterieurs werken we met een minimum startprijs van €500 voor een int
 * bespreking van gewenste stijl en sfeer
 * kennismaking met opdrachtgevers Kleuradvies: €200
 
-
-
-
-
 **Kleuradvies: €200**
 
 * bespreken van wensen, vragen en ideeën
@@ -55,10 +47,6 @@ Voor wooninterieurs werken we met een minimum startprijs van €500 voor een int
 * in rekening brengen van lichtinval, functionaliteit en meubels die al dan niet behouden worden
 * moodboards met voorstellen
 * shoppinglist
-
-
-
-
 
 **Interieuradvies: €500**
 
@@ -70,15 +58,7 @@ Voor wooninterieurs werken we met een minimum startprijs van €500 voor een int
 * extra tips verlichting en raamdecoratie
 * advies combinatie van vormen, materialen en texturen
 
-
-
-
-
 **Personal shopping: prijs op aanvraag**
-
-
-
-
 
 De prijs voor een interieuradvies is berekend per kamer. Dit wordt gedefinieerd als een gebied met een specifieke functie. Woonkamer en eetkamer zijn in deze definiëring aparte ruimtes.
 
