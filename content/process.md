@@ -38,7 +38,7 @@ Voor wooninterieurs werken we met een minimum startprijs van €500 voor een int
 * gesprek op locatie van +/- 2u
 * bekijken van ruimte(s)
 * bespreking van gewenste stijl en sfeer
-* kennismaking met opdrachtgevers Kleuradvies: €200
+* kennismaking met opdrachtgevers
 
 **Kleuradvies: €200**
 
