@@ -28,6 +28,6 @@ Opulent staat open voor verschillende soorten projecten. Neem gerust contact op,
 
 <!--StartFragment-->
 
-Oscar Thewissen was in zijn jonge jaren al veel bezig met interieur. Met het ‘fun’ element ervan zo veel mogelijk tot uiting brengen op een esthetische manier. Tijdens zijn job bij Umber & Smoke is die jarenlange passie uitgegroeid tot nieuwsgierigheid en leergierigheid. Dagelijks bezig zijn met inrichting en meubilair gaf de aanzet om een opleiding te volgen tot Interieurstylist. De kennis van de opleiding in combinatie met interieuradvies verlenen aan particulieren en bedrijven zorgden voor een ontembaar verlangen om het heft in eigen handen te nemen. Kort daarna werd Opulent geboren.
+Oscar Thewissen was in zijn jonge jaren al veel bezig met interieur. Toen vooral met het ‘fun’ element in een interieur zo veel mogelijk tot uiting brengen op een esthetische manier. Tijdens zijn job bij Umber & Smoke is die jarenlange passie uitgegroeid tot nieuwsgierigheid en leergierigheid. Dagelijks bezig zijn met inrichting en meubilair gaf de aanzet om een opleiding te volgen tot Interieurstylist. De kennis van de opleiding in combinatie met interieuradvies verlenen aan particulieren en bedrijven zorgden voor een ontembaar verlangen om het heft in eigen handen te nemen. Kort daarna werd Opulent geboren. 
 
 <!--EndFragment-->
