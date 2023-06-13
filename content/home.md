@@ -30,7 +30,7 @@ faq:
       <!--StartFragment-->
 
 
-      Helemaal niet. Er zijn zelfs veel verschillende mogelijkheden. In een eerste korte kennismaking (via mail of telefoon) leren we van elkaar wat je precies wilt en kunnen wij een voorstel op maat doen van een proces waarin precies zit wat jij nodig hebt zonder vast te zitten aan overbodige verplichtingen.
+      Helemaal niet. Er zijn zelfs veel verschillende mogelijkheden. In een eerste korte kennismaking (via mail of telefoon) leren we van elkaar wat je precies wil en kunnen wij een voorstel op maat doen van een proces waarin precies zit wat jij nodig hebt zonder vast te zitten aan overbodige verplichtingen.
 
 
       <!--EndFragment-->
