@@ -48,7 +48,7 @@ faq:
       <!--StartFragment-->
 
 
-      Sterk vergelijkbaar met de prijs, is ook de timing zeer afhankelijk van de omvang, de verwachtingen en de graad van begeleiding in het proces. Daarbij komt ook de timing van leveranciers of partners die het geheel allesbehalve gemakkelijk inschatbaar maken. Zodra een project officieel aanvangt en de route en opties duidelijk uitgestippeld zijn, kan een timing wel nauwkeuriger afgelijnd worden.
+      Sterk vergelijkbaar met de prijs, is ook de timing zeer afhankelijk van de omvang, de verwachtingen en de graad van begeleiding in het proces. Daarbij komt ook de timing van leveranciers of partners die het geheel moeilijk in te schatten maken. Zodra een project officieel aanvangt en de route en opties duidelijk uitgestippeld zijn, kan een timing wel nauwkeuriger afgelijnd worden. 
 
 
       <!--EndFragment-->
