@@ -39,7 +39,7 @@ faq:
       <!--StartFragment-->
 
 
-      Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen, en de graad van begeleiding zijn allemaal van invloed op de prijs. Er worden ook andere prijzen gehanteerd voor residentiële projecten en bedrijfs- of hospitality projecten. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan alvorens er verdere afspraken gemaakt worden.
+      Het is werk dat niet te standaardiseren valt en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen en de graad van begeleiding zijn allemaal van invloed op de prijs. Er worden ook andere prijzen gehanteerd voor residentiële projecten en bedrijfs- of hospitality projecten. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan alvorens er verdere afspraken gemaakt worden.
 
 
       <!--EndFragment-->
