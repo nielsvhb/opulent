@@ -13,15 +13,24 @@ Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlang
 
 ## Ontwerp & moodboards
 
-Als we ervoor kiezen om samen in zee te gaan is Opulent aan zet. Nadat we alle nodige informatie ontvangen hebben qua grondplannen en afmetingen gaan we aan de slag. We bezorgen je drie verschillende voorstellen met moodboards. Deze voorstellen bevatten kleuradvies, een plattegrond van de besproken ruimtes, een lichtplan, een shoppinglist voor meubilair en decoratie. Extra tips over verlichting en raamdecoratie, advies over combinaties van meubels, texturen en materialen. De ontwerpen worden voorgesteld tijdens een persoonlijke afspraak zodat er meteen mogelijkheid is om bijkomende vragen te beantwoorden.
+Als we ervoor kiezen om samen in zee te gaan, is Opulent aan zet. Nadat we alle nodige informatie ontvangen hebben qua grondplannen en afmetingen gaan we aan de slag. We bezorgen je drie verschillende voorstellen met moodboards. Deze voorstellen bevatten: 
+
+* k﻿leuradvies
+* p﻿lattegrond van de besproken ruimtes
+* l﻿ichtplan
+* s﻿hoppinglist meubilair & decoratie
+* t﻿ips over verlichting & raamdecoratie
+* a﻿dvies over combinaties van kleuren, texturen en materialen in meubilair en interieur
+
+De ontwerpen worden voorgesteld tijdens een persoonlijke afspraak, zodat er meteen mogelijkheid is om bijkomende vragen te beantwoorden.
 
 ## Planning & uitvoering
 
-Wanneer jij het ontwerp van jouw voorkeur hebt uitgekozen, wordt dit in detail besproken en waar nodig aangepast. We werken samen aan het ideale ontwerp met de perfecte balans tussen esthetiek, beleving en functionaliteit. Wanneer het ontwerp gefinaliseerd wordt is het klaar voor realisatie. De graad van begeleiding kan op voorhand besproken worden.
+Wanneer jij het ontwerp van jouw voorkeur hebt uitgekozen, wordt dit in detail besproken en waar nodig aangepast. We werken samen aan het ideale ontwerp met de perfecte balans tussen esthetiek, beleving en functionaliteit. Wanneer het ontwerp gefinaliseerd wordt, is het klaar voor realisatie. De graad van begeleiding kan op voorhand besproken worden.
 
 ## Begeleiding
 
-Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolgen en inplannen van de levering en coördinatie van de vakmensen. De begeleiding kan zeer gedetailleerd, tot bij de keuze van materialen, raamdecoratie, verlichting, meubels en decoratie.
+Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolgen en inplannen van de levering en coördinatie van de vakmensen. De begeleiding kan zeer gedetailleerd gaan, tot bij de keuze van materialen, raamdecoratie, verlichting, meubels en decoratie.
 
 ## Styling
 
@@ -29,9 +38,9 @@ Is alles geleverd? Dan komen wij langs om de installatie tot in detail te verzor
 
 ## P﻿rijzen
 
-Het is werk dat niet te standaardiseren valt, en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen, en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
+Het is werk dat niet te standaardiseren valt en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
-Voor wooninterieurs werken we met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
+We werken met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
 
 **Kennismakingsgesprek: €50**
 
@@ -62,6 +71,6 @@ Voor wooninterieurs werken we met een minimum startprijs van €500 voor een int
 
 De prijs voor een interieuradvies is berekend per kamer. Dit wordt gedefinieerd als een gebied met een specifieke functie. Woonkamer en eetkamer zijn in deze definiëring aparte ruimtes.
 
-Bij een totaalrealisatie kan de prijs van het interieuradvies verrekend worden.
+Bij een totaalrealisatie kan de prijs van het interieuradvies in korting verrekend worden. 
 
 <!--EndFragment-->
