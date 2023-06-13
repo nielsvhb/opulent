@@ -22,7 +22,7 @@ Hoe toonaangevend esthetiek en beleving ook zijn in een interieur, functionalite
 
 <!--StartFragment-->
 
-Opulent staat open voor verschillende soorten projecten. Neem gerust contact, dan bespreken we samen de mogelijkheden om voor jou een spraakmakend interieur te realiseren.
+Opulent staat open voor verschillende soorten projecten. Neem gerust contact op, dan bespreken we samen de mogelijkheden om voor jou een spraakmakend interieur te realiseren.
 
 <!--EndFragment-->
 
