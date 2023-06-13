@@ -9,6 +9,6 @@ images:
 ---
 <!--StartFragment-->
 
-Voor dit project vroeg vastgoedbedrijf Vicus voor meer warmte, kleur en glamour in hun interieur, op professioneel niveau. Opulent heeft hier kunnen aantonen dat zelfs met beperkte middelen, de juiste aanpassingen veel impact hebben op een ruimte. We kozen voor diepe, royale kleuren fluweel voor het meubilair. Om deze kleuren extra in de verf te zetten zijn de verlichting en de poten van het meubilair goud. Er was voldoende verlichting aanwezig, dus Opulent maakte de bewuste keuze voor sfeerverlichting met een zeer lage Kelvin. Zo worden de gekozen kleuren van het meubilair bij donker weer op zijn best naar voren gebracht. De sfeer van de ruimte is warm en huiselijk.
+Voor dit project vroeg vastgoedbedrijf Vicus voor meer warmte, kleur en glamour in hun interieur, op professioneel niveau. Opulent heeft hier kunnen aantonen dat zelfs met beperkte middelen, de juiste aanpassingen veel impact hebben op een ruimte. We kozen voor diepe, royale kleuren van fluweel voor het meubilair. Om deze kleuren extra in de verf te zetten, zijn de verlichting en de poten van het meubilair goud. Er was voldoende verlichting aanwezig, dus Opulent maakte de bewuste keuze voor sfeerverlichting met een zeer lage Kelvin. Zo worden de gekozen kleuren van het meubilair bij donker weer op zijn best naar voren gebracht. De sfeer van de ruimte is warm en huiselijk.
 
 <!--EndFragment-->
