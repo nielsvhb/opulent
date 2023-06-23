@@ -9,7 +9,7 @@ We staan garant voor een persoonlijke, warme aanpak en begeleiden verschillende 
 
 ## Ontmoeting
 
-Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlangens. Er zal gekeken worden hoe er in de ruimte geleefd of gewerkt wordt en we maken kennis met jouw persoonlijke smaak. We bespreken samen verwachtingen en budget en dompelen ons onder in de ruimte(s) die aangepakt mogen worden.
+Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlangens. Er zal gekeken worden hoe er in de ruimte geleefd of gewerkt wordt en we maken kennis met jouw persoonlijke smaak. We bespreken samen verwachtingen en budget en dompelen ons onder in de ruimte(s) die aangepakt mag (mogen) worden.
 
 ## Ontwerp & moodboards
 
@@ -30,7 +30,7 @@ Wanneer jij het ontwerp van jouw voorkeur hebt uitgekozen, wordt dit in detail b
 
 ## Begeleiding
 
-Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolgen en inplannen van de levering en coördinatie van de vakmensen. De begeleiding kan zeer gedetailleerd gaan, tot bij de keuze van materialen, raamdecoratie, verlichting, meubels en decoratie.
+Indien er gekozen wordt voor volledige begeleiding zorgt Opulent voor het opvolgen en inplannen van de levering en coördinatie van de vakmensen. De begeleiding kan zeer gedetailleerd zijn, van de keuze van materialen, raamdecoratie, verlichting en meubels tot de decoratie.
 
 ## Styling
 
@@ -38,9 +38,9 @@ Is alles geleverd? Dan komen wij langs om de installatie tot in detail te verzor
 
 ## P﻿rijzen
 
-Het is werk dat niet te standaardiseren valt en daardoor is dat voor een prijs ook zo. De omvang van het project, de verwachtingen en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
+De omvang van het project, de verwachtingen en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
-We werken met een minimum startprijs van €500 voor een interieuradvies. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden.  
+De minimum startprijs voor een interieuradvies is €500. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden. 
 
 **Kennismakingsgesprek: €50**
 
