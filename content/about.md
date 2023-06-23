@@ -8,7 +8,7 @@ Interior for the daring, dat lichten we even toe. We tonen graag aan dat estheti
 
 ## **Esthetiek**
 
-Bij Opulent hebben we een passie voor kleur, het mixen van materialen en het creëren van contrasten binnen een interieur. Dat is wat ons uniek maakt. Opulent staat voor een tijdloos en weelderig interieur, in de breedste zin van het woord. Een weelde aan texturen, materialen, licht en kleur. 
+Bij Opulent hebben we een passie voor kleur, het mixen van materialen en het creëren van contrasten binnen een interieur. Dat is wat ons uniek maakt. Opulent staat voor een tijdloos en weelderig interieur, in de breedste zin van het woord. Een weelde aan texturen, materialen en kleur. 
 
 ## **Beleving**
 
