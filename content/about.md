@@ -12,7 +12,7 @@ Bij Opulent hebben we een passie voor kleur, het mixen van materialen en het cre
 
 ## **Beleving**
 
-Het is voor ons belangrijk dat een interieur vreugde teweeg brengt en tegelijk rust. Dat je kan binnenkomen en meteen voelt dat de ruimte met veel zorg werd ontworpen en een duidelijke weerspiegeling is van de persoonlijkheid van de eigenaar. Dat er geleefd wordt en met verwondering rondgekeken kan worden. Mooie stoffen, unieke kleurcombinaties en tactiele materialen kunnen hiervoor zorgen. Gecombineerd met stijlvol meubilair en afgewerkt met interessante accessoires. 
+Het is voor ons belangrijk dat een interieur vreugde teweeg brengt en tegelijk rust. Dat je kan binnenkomen en meteen voelt dat de ruimte met veel zorg werd ontworpen en een duidelijke weerspiegeling is van de persoonlijkheid van de eigenaar. Dat er geleefd wordt en met verwondering rondgekeken kan worden. Mooie stoffen, unieke kleurcombinaties en tactiele materialen, gecombineerd met stijlvol meubilair en interessante accessoires, kunnen hiervoor zorgen.
 
 ## **Functionaliteit**
 
