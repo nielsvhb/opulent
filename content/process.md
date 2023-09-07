@@ -1,5 +1,5 @@
 ---
-title: Proces
+title: Interieuradvies
 imageleft: /images/uploads/stalen2.jpg
 imageright1: /images/uploads/spacejoy-uccssbzybqq-unsplash.jpg
 imageright2: /images/uploads/321478386_501395255426099_6557334865590868296_n.jpg
