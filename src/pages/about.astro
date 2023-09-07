@@ -9,18 +9,18 @@ import * as aboutPage from '/content/about.md';
     <header>
         <NavDetail />
     </header>
-    <main class="text-fuchsia-dark bg-fuchsia flex-grow">
+    <main class="bg-fuchsia flex-grow">
 
         <div class="container  mx-auto py-20 grid grid-cols-3 gap-10">
             <div class="col-span-3 sm:col-span-2">
-                <h1 class="font-heading text-3xl inline-block mb-10">{aboutPage.frontmatter.title}</h1>
-                <div class="mb-4 font-light space-y-4" set:html={aboutPage.compiledContent()}></div>
+                <h1 class="font-heading text-secondary text-3xl inline-block mb-10">{aboutPage.frontmatter.title}</h1>
+                <div class="text-secondary font-light mb-20 prose prose-invert prose-headings:font-normal prose-headings:mb-2 prose-headings:text-secondary" set:html={aboutPage.compiledContent()}></div>
                
             </div>
 
             <div class="col-span-3 sm:col-span-1">
                 <img src={aboutPage.frontmatter.image} />
-                <p class="mt-2 text-sm">
+                <p class="text-secondary mt-3 text-sm">
                     Oscar Thewissen<br/>
                     Interieurontwerper en drijvende kracht achter Opulent.
                 </p>

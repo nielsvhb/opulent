@@ -8,7 +8,7 @@
 
                     <a
                             :href="project.url"
-                            class="inline-block bg-primary text-white px-6 py-2 rounded font-semibold tracking-wide opacity-80 hover:opacity-100">
+                            class="inline-block bg-primary text-white px-6 py-2 rounded tracking-wide opacity-80 hover:opacity-100">
                         {{ project.frontmatter.title }}
                     </a>
                 </div>

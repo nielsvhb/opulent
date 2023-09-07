@@ -13,7 +13,7 @@ import * as homePage from '/content/home.md';
 				<ul class="space-y-10">
 					{
 						homePage.frontmatter.faq.map(fa => (<li>
-								<div class="mb-2 font-semibold">{fa.title}</div>
+								<div class="mb-2 text-2xl font-semibold">{fa.title}</div>
 								<div set:html={fa.body}></div>
 							</li>))
 					}

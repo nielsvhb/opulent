@@ -16,11 +16,11 @@
 				<div class="flex space-x-6">
 					<div class="w-1/2">
 						<label for="firstname" class="block text-white mb-1">Voornaam</label>
-						<input v-model="formData.firstName" id="firstname" name="firstname" type="text" class="bg-primary-light px-4 py-2 rounded w-full" required>
+						<input v-model="formData.firstname" id="firstname" name="firstname" type="text" class="bg-primary-light px-4 py-2 rounded w-full" required>
 					</div>
 					<div class="w-1/2">
 						<label for="surname" class="block text-white mb-1">Naam</label>
-						<input v-model="formData.lastName" id="surname" name="surname" type="text" class="bg-primary-light px-4 py-2 rounded w-full" required>
+						<input v-model="formData.surname" id="surname" name="surname" type="text" class="bg-primary-light px-4 py-2 rounded w-full" required>
 					</div>
 				</div>
 				<div class="mt-6">
@@ -36,7 +36,7 @@
 					</div>
 				</div>
 				<div class="mt-6">
-					<button class="font-semibold text-white bg-primary-light hover:bg-fuchsia hover:text-black rounded px-6 py-2 w-48">Verzenden</button>
+					<button class="text-white bg-primary-light hover:bg-fuchsia hover:text-black rounded px-6 py-2 w-48">Verzenden</button>
 				</div>
 			</form>
 		</template>
@@ -62,8 +62,8 @@ export default defineComponent({
 			isSent: false,
 			formData: {
 				email: "",
-				firstName: "",
-				lastName: "",
+				firstname: "",
+				surname: "",
 				message: ""
 			},
 		};
