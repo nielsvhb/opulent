@@ -1,6 +1,9 @@
 ---
 title: Proces
 imageleft: /images/uploads/stalen2.jpg
+imageright1: /images/uploads/spacejoy-uccssbzybqq-unsplash.jpg
+imageright2: /images/uploads/321478386_501395255426099_6557334865590868296_n.jpg
+imageright3: /images/uploads/346104272_3621174751444561_1703637489438195954_n.jpg
 imagebottom: /images/uploads/stalen1.jpg
 ---
 <!--StartFragment-->
