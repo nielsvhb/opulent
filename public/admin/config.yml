@@ -38,6 +38,20 @@ collections:
         - { name: imageright2, label: "Image right 2", widget: image }
         - { name: imageright3, label: "Image right 3", widget: image }
         - { name: imagebottom, label: "Image bottom", widget: image }
+    - label: "Prijzen"
+      name: "prijzen"
+      file: "content/prijzen.md"
+      fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: Body text, name: body, widget: markdown }
+        - { name: image, label: Image, widget: image }
+    - label: "Interieurstyling"
+      name: "interieurstyling"
+      file: "content/interieurstyling.md"
+      fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: Body text, name: body, widget: markdown }
+        - { name: image, label: Image, widget: image }
 
 - name: 'projects'
   label: 'Projects'

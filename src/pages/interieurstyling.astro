@@ -1,0 +1,26 @@
+﻿---
+import Layout from "../layouts/Layout.astro";
+import NavDetail from "../components/NavDetail.astro";
+import * as page from '/content/interieurstyling.md';
+---
+
+<Layout title="Opulent - Interieuradvieus">
+    <header>
+        <NavDetail />
+    </header>
+    <main class="text-white bg-fuchsia-dark flex-grow">
+
+        <div class="container mx-auto py-20">
+            <div>
+                <h1 class="font-heading text-3xl inline-block mb-10 text-white">{page.frontmatter.title}</h1>
+                
+                <div class="text-fuchsia font-light mb-20 prose prose-invert prose-headings:font-normal prose-headings:mb-2" set:html={page.compiledContent()}></div>
+                
+          
+                
+                <img src={page.frontmatter.imagebottom} />
+            </div>
+        </div>
+       
+    </main>
+</Layout>

@@ -1,0 +1,24 @@
+﻿---
+import Layout from "../layouts/Layout.astro";
+import NavDetail from "../components/NavDetail.astro";
+import * as page from '/content/prijzen.md';
+import aboutPage from "*.md";
+---
+
+<Layout title="Opulent - Prijzen">
+    <header>
+        <NavDetail />
+    </header>
+    <main class="bg-fuchsia flex-grow">
+
+        <div class="container mx-auto py-20">
+
+            <h1 class="font-heading text-secondary text-3xl inline-block mb-10">{page.frontmatter.title}</h1>
+            <div class="text-secondary font-light mb-20 prose prose-invert prose-headings:font-normal prose-headings:mb-2 prose-headings:text-secondary" set:html={page.compiledContent()}></div>
+
+
+            <img src={page.frontmatter.image} class="w-1/2"/>
+        </div>
+       
+    </main>
+</Layout>
