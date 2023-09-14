@@ -2,8 +2,6 @@
 title: Prijzen
 image: /images/uploads/spacejoy-uccssbzybqq-unsplash.jpg
 ---
-## P﻿rijzen
-
 De omvang van het project, de verwachtingen en de graad van begeleiding hebben elk hun invloed op de prijs. Bij voorkeur wordt het budget al in een eerste gesprek aangehaald. Op die manier komen we beiden niet voor verrassingen te staan. 
 
 De minimum startprijs voor een interieuradvies is €500. Afhankelijk van de graad van begeleiding en de omvang van het project kan deze prijs aangepast worden. 
