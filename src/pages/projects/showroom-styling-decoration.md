@@ -1,6 +1,7 @@
 ---
 title: Showroom styling & decoration
 layout: ../../layouts/ProjectLayout.astro
+page_to_show_on: interieurstyling
 images:
   - image: /images/uploads/frontpage-showroom.jpg
   - image: /images/uploads/346101614_1056946779025182_1357876058573475008_n.jpg
