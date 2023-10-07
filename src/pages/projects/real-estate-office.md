@@ -1,6 +1,7 @@
 ---
 title: Real Estate Office
 layout: ../../layouts/ProjectLayout.astro
+page_to_show_on: homepage
 images:
   - image: /images/uploads/frontpage-real-estate-office-green.jpg
   - image: /images/uploads/321478386_501395255426099_6557334865590868296_n.jpg
