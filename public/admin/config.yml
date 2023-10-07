@@ -66,6 +66,8 @@ collections:
     - { label: 'Title', name: 'title', widget: 'string' }
     - { label: 'Description', name: 'body', widget: 'markdown' }
     - { label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/ProjectLayout.astro" }
+    - { label: "PageToShowOn", name: "page_to_show_on", widget: "select", options: [ "homepage", "interieurstyling" ], default: "homepage"}
+     
     - name: images
       label: Images
       widget: list
