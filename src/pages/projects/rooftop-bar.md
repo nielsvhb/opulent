@@ -1,6 +1,7 @@
 ---
 title: Rooftop bar
 layout: ../../layouts/ProjectLayout.astro
+page_to_show_on: homepage
 images:
   - image: /images/uploads/frontpage-roof-top-bar.jpg
   - image: /images/uploads/bar2-klein.png
