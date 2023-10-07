@@ -1,6 +1,7 @@
 ---
 title: Loft hotel room
 layout: ../../layouts/ProjectLayout.astro
+page_to_show_on: homepage
 images:
   - image: /images/uploads/frontpage.jpg
   - image: /images/uploads/roomview1.png
