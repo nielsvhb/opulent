@@ -7,7 +7,7 @@ import Faq from "../components/Faq.astro";
 import Contact from "../components/Contact.astro";
 import Projects from "../components/Projects.vue";
 
-const projects = await Astro.glob('../pages/projects/*.md');
+const projects = (await Astro.glob('../pages/projects/*.md')).filter(p => p.frontmatter.page_to_show_on === "homepage");
 ---
 
 <Layout title="Welcome to Opulent">
