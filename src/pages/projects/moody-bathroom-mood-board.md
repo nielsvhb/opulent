@@ -1,6 +1,7 @@
 ---
 title: Moody bathroom
 layout: ../../layouts/ProjectLayout.astro
+page_to_show_on: homepage
 images:
   - image: /images/uploads/frontpage-bathroom-green.jpg
   - image: /images/uploads/moodboard-moody-bathroom.jpg
