@@ -38,9 +38,7 @@ De minimum startprijs voor een interieuradvies is €500. Afhankelijk van de gra
 * V﻿irtuele interieur date van 60 minuten
 * V﻿uur al je interieurvragen af
 * O﻿ntvang tips en de uitwerking van de meeting via e-mail
-* B﻿ereid je goed voor, bezorg op voorhand foto's en stel je vragenlijst op
-
-
+* B﻿ereid je goed voor, bezorg op voorhand foto's, moodboards en stel je vragenlijst op
 
 De prijs voor een interieuradvies is berekend per kamer. Dit wordt gedefinieerd als een gebied met een specifieke functie. Woonkamer en eetkamer zijn in deze definiëring aparte ruimtes.
 
