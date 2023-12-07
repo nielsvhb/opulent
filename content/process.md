@@ -16,7 +16,7 @@ Opulent komt op locatie om te luisteren naar je wensen, verwachtingen en verlang
 
 ## Ontwerp & moodboards
 
-Als we ervoor kiezen om samen in zee te gaan, is Opulent aan zet. Nadat we alle nodige informatie ontvangen hebben qua grondplannen en afmetingen gaan we aan de slag. We bezorgen je drie verschillende voorstellen met moodboards. Deze voorstellen bevatten: 
+Als we ervoor kiezen om samen in zee te gaan, is Opulent aan zet. Nadat we alle nodige informatie ontvangen hebben qua grondplannen en afmetingen gaan we aan de slag. We bezorgen je **drie verschillende voorstellen** met moodboards. Deze voorstellen bevatten: 
 
 * k﻿leuradvies
 * p﻿lattegrond van de besproken ruimtes
