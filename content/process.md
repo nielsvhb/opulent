@@ -21,6 +21,7 @@ Als we ervoor kiezen om samen in zee te gaan, is Opulent aan zet. Nadat we alle 
 * k﻿leuradvies
 * 2D van de besproken ruimtes
 * 3﻿D representatie van de besproken ruimtes
+* S﻿feer impressie van elke ruimte
 * l﻿ichtplan
 * s﻿hoppinglist meubilair & decoratie
 * t﻿ips over verlichting & raamdecoratie
