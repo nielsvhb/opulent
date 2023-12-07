@@ -1,9 +1,9 @@
 ---
 title: Interieuradvies
 imageleft: /images/uploads/stalen2.jpg
-imageright1: /images/uploads/pexels-pixabay-276267.jpg
-imageright2: /images/uploads/321478386_501395255426099_6557334865590868296_n.jpg
-imageright3: /images/uploads/346104272_3621174751444561_1703637489438195954_n.jpg
+imageright1: /images/uploads/321478386_501395255426099_6557334865590868296_n.jpg
+imageright2: /images/uploads/346104272_3621174751444561_1703637489438195954_n.jpg
+imageright3: /images/uploads/pexels-pixabay-276267.jpg
 imagebottom: /images/uploads/stalen1.jpg
 ---
 <!--StartFragment-->
